@@ -25,22 +25,22 @@
 </head>
 <body>
 <h1>입력하신 항목은 다음과 같습니다.</h1>
-이름:<%=name%> <br/>
-학번:<%=student_num%> <br/>
-나이:<%=age%> <br/>
-핸드폰 번호:<%=phone%> <br/>
-생년월일:<%=birthday%> <br/>
-거주 기숙사:<%=dorm%> <br/>
-전공:<%=major%> <br/>
-식당1:<%=restaurant1%> <br/>
-식당2:<%=restaurant2%> <br/>
-식당3:<%=restaurant3%> <br/>
-식당4:<%=restaurant4%> <br/>
-식당5:<%=restaurant5%> <br/>
-식당6:<%=restaurant6%> <br/>
-식당7:<%=restaurant7%> <br/>
-학교에서 가장 많이 보는 색:<%=color%> <br/>
-의견:<%=message%> <br/>
+이름: <%=name%> <br/>
+학번: <%=student_num%> <br/>
+나이: <%=age%> <br/>
+핸드폰 번호: <%=phone%> <br/>
+생년월일: <%=birthday%> <br/>
+거주 기숙사: <%=dorm%> <br/>
+전공: <%=major%> <br/>
+식당1: <%=restaurant1%> <br/>
+식당2: <%=restaurant2%> <br/>
+식당3: <%=restaurant3%> <br/>
+식당4: <%=restaurant4%> <br/>
+식당5: <%=restaurant5%> <br/>
+식당6: <%=restaurant6%> <br/>
+식당7: <%=restaurant7%> <br/>
+학교에서 가장 많이 보는 색: <%=color%> <br/>
+의견: <%=message%> <br/>
 
 </body>
 </html>
